@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 a
 
 asudh
+=======
+Opa
+Bug proposital executado.
+>>>>>>> 6f0dda99f91a54b74a7ced3bac0f8ef2be0743c7
